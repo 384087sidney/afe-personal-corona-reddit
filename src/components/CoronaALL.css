@@ -1,0 +1,16 @@
+.coronaall-list  {
+	font-size: calc(2em + .25vw);
+	font-weight: 400;
+	line-height: 2;
+	margin-bottom: 1.5em;
+	color: #fcfcfc;
+}
+
+.coronaall-div__titulo { 
+	font-size: calc(2.8em + 2.6vw);
+	font-weight: 700;
+	letter-spacing: .01em;
+	padding: 10rem 0 0 4.5rem;
+	text-shadow: .022em .022em .022em #111;
+	color: #fff;
+}
